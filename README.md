@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains KCS (Kansas City Standard) format test audio files generated for validating cassette encoding on vintage computers. The intention is for anyone with a suitable vintage computer, cassette drive, or drive emulator to load and test these files to verify they produce proper KCS-encoded audio.
+This repository contains KCS (Kansas City Standard) format test audio files generated for validating cassette encoding on vintage computers. The intention is for anyone with a suitable vintage computer, cassette drive, or drive emulator to load and test these files to verify the app beta can produce proper KCS encoded data which will run on an era correct 8-bit machine.
 
 I have no authentic vintage computers on which to test these KCS audio files, and no experience with vintage code, so I'm hoping someone with a vintage machine can verify that these are indeed KCS compatible and that they can be read by their machine.
 
